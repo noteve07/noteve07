@@ -33,7 +33,7 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 ## 📫 How to reach me
 
 - **Email**: [njb.noteve@gmail.com](mailto:njb.noteve12@gmail.com)
-
+- **Sololearn**: [noteve](https://www.sololearn.com/en/profile/20283378)
 ---
 
 ## 🚀 Let's Connect!
