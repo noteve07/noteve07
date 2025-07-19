@@ -16,9 +16,9 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, Java, C/C++, JavaScript
-- **Web Development**: HTML, CSS, JavaScript, React (basic), Node.js (basic)
-- **Database**: MySQL, MongoDB (basic)
-- **Tools & Platforms**: Git & GitHub, VS Code, Linux (basics), Windows
+- **Web Development**: HTML, CSS, JavaScript
+- **Database**: MySQL, SQLite
+- **Tools & Platforms**: Git & GitHub, VS Code, Windows
 - **Others**: Data Structures & Algorithms, Problem Solving, OOP
 
 ---
@@ -32,7 +32,7 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
 ## 📫 How to reach me
 
-- **Email**: [your.email@example.com](mailto:njb.noteve12@gmail.com)
+- **Email**: [njb.noteve@gmail.com](mailto:njb.noteve12@gmail.com)
 
 ---
 
