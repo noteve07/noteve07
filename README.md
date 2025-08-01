@@ -15,11 +15,11 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, Java, C#, JavaScript
+- **Programming Languages**: Python, Java, C#, JavaScript, C++
 - **Web Development**: HTML, CSS, JavaScript
 - **Database**: MySQL, SQLite
 - **Tools & Platforms**: Git & GitHub, VS Code, Windows
-- **Others**: Data Structures & Algorithms, Problem Solving, OOP
+- **Others**: Data Structures & Algorithms, OOP, Arduino
 
 ---
 
