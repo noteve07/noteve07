@@ -52,9 +52,14 @@ I'm always open to collaborating on interesting projects, contributing to open s
 Feel free to check out my repositories and connect!
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  [<img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32" alt="SoloLearn">](https://www.sololearn.com/en/profile/20283378)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Gmail">](mailto:njb.noteve12@gmail.com)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn">](https://www.linkedin.com/in/nicko-james-barata)
+  <a href="https://www.sololearn.com/en/profile/20283378" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32" alt="SoloLearn">
+  </a>
+  <a href="mailto:njb.noteve12@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/nicko-james-barata" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn">
+  </a>
 </div>
-
 
