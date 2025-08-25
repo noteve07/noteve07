@@ -51,4 +51,16 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 I'm always open to collaborating on interesting projects, contributing to open source, and learning new things.  
 Feel free to check out my repositories and connect!
 
+<div align="center" style="display:flex; gap:25px; justify-content:center; align-items:center;">
+  <a href="mailto:njb.noteve12@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" style="filter: invert(1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.sololearn.com/en/profile/20283378" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sololearn.svg" alt="Sololearn" height="40" style="filter: invert(1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicko-james-barata/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</div>
+
 
