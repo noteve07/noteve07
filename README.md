@@ -5,14 +5,6 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 **Education**: BS Computer Science Major in Software Development (3rd Year)
-- 💡 **Interests**: Software Development, Algorithms, Data Structures, Web Development, Machine Learning
-- 🌱 **Currently Learning**: Advanced programming concepts, modern frameworks, and best practices in software engineering
-
----
-
 ## 🛠️ Skills
 
 <div align="center">
