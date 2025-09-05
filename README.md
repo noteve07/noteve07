@@ -48,9 +48,6 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
 ## 🚀 Let's Connect!
 
-I'm always open to collaborating on interesting projects, contributing to open source, and learning new things.  
-Feel free to check out my repositories and connect!
-
 <p align="center">
   <a href="https://www.sololearn.com/en/profile/20283378">
     <img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32" alt="SoloLearn">
