@@ -40,8 +40,9 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
 ## 📈 GitHub Stats
 
-![Noteve07's GitHub stats](https://github-readme-stats.vercel.app/api?username=noteve07&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noteve07&layout=compact&theme=github_dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteve07&layout=compact&theme=github_dark)">
+</p>
 
 ---
 
