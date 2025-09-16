@@ -35,6 +35,7 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 
   <!-- hardware -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 
   <!-- machine learning / data science -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
