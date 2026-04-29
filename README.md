@@ -51,19 +51,28 @@ I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Sc
 ---
 
 ## 🚀 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <a href="https://www.sololearn.com/en/profile/20283378">
-    <img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32" alt="SoloLearn">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:njb.noteve12@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Gmail">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nicko-james-barata">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn">
-  </a>
-</p>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://www.sololearn.com/en/profile/20283378">
+        <img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32">
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="mailto:njb.noteve12@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32">
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="https://www.linkedin.com/in/nicko-james-barata">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
