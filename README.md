@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nicko James E. Barata!
 
 Welcome to my GitHub profile!  
-I'm currently a 3rd year student pursuing a **Bachelor of Science in Computer Science**.
+I'm currently a 4th year student pursuing a **Bachelor of Science in Computer Science**.
 
 ---
 
