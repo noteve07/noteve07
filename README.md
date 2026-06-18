@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Nicko James E. Barata!
 
----
-
 ## 🛠️ Skills
 
 <div align="center">
