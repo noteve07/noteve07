@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nicko James E. Barata!
+# 👋 Hi there, I'm Nicko!
 
 ## 🛠️ Skills
 
