@@ -109,13 +109,6 @@
       pandas, Matplotlib, n8n, Google Cloud, Docker, Podman, Linux / WSL, Apache, VPS,
       Railway, Render, Vercel, GitHub Actions, Git, GitHub, Postman, cURL, npm, VS Code,
       Arduino, ESP32, Unity"
-    width="100%"></picture><br>
-  <picture><source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/stage-bottom-dark.svg"><img
-    src="assets/stage-bottom-light.svg"
-    alt=""
-    aria-hidden="true"
     width="100%"></picture>
 </p>
 
