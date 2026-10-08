@@ -119,7 +119,16 @@
     width="100%"></picture>
 </p>
 
-## 🏆 Awards & recognition
+<p align="center">
+  <picture><source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/divider-dark.svg"><img
+    src="assets/divider-light.svg"
+    alt=""
+    aria-hidden="true"
+    width="100%"
+    height="1"></picture>
+</p>
 
 <p align="center">
   <picture><source
@@ -131,30 +140,12 @@
       AI in UX Fintech Hackathon; Top 10, National IT and CS Skills Competition, Hackathon
       Category; Finalist, DOST-GATES GeoHack Hackathon 2026, ongoing; Finalist, Balanga
       Kahanga-Hackathon 2025. Honors: Dean's Lister, DOST RA 7687 Scholar, DataCamp x DEP
-      Scholar, AWS ML and AI Scholar. Certifications: Google AI Professional Certificate,
+      Scholar, AWS ML and AI Scholar. Certifications: Google AI Professional Certified,
       DataCamp AI Engineer Associate, IT Specialist Software Development"
     width="100%"></picture>
 </p>
 
-<details>
-<summary><b>View all awards</b></summary>
-<br>
-
-<p align="center">
-  <picture><source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/awards-all-dark.svg"><img
-    src="assets/awards-all-light.svg"
-    alt="All awards: 1st Runner Up, Regional Programming Competition, RAITE 2025 and 2026;
-      Finalist, National Programming Competition, CodeChum NPC Season 2025; Top 10, AI in
-      UX Fintech Hackathon; Top 10, National IT and CS Skills Competition, Hackathon
-      Category; Finalist, DOST-GATES GeoHack Hackathon 2026, ongoing; Finalist, Balanga
-      Kahanga-Hackathon 2025"
-    width="100%"></picture>
-</p>
-
-</details>
-
+<!--
 ## 🤝 Shipped with
 
 <p align="center">
@@ -165,5 +156,15 @@
     alt="Shipped with: SN International Group, AI Specialist Associate; KadaKareer, Senior
       MS - Product Engineer; DOST, Software Developer Intern; FlyRank AI, Backend AI
       Engineer Intern"
+    width="100%"></picture>
+</p>
+-->
+
+<p align="center">
+  <picture><source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117%2C55:0b3a52%2C100:00a8cc"><img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ddf4ff,55:7fd0e6,100:0891b2"
+    alt="Decorative wave footer"
     width="100%"></picture>
 </p>
