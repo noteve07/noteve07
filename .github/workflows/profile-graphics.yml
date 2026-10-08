@@ -1,0 +1,48 @@
+# Snapshots the streak card and the GitCity skyline (both noir themed) into the `output` branch,
+# which the README images point at.
+# If either service is down the job fails before deploying, so the previous images stay in place.
+# GitHub disables scheduled workflows after 60 days without repository activity; rerun it manually if that happens.
+name: Generate profile graphics
+
+on:
+  schedule:
+    - cron: "0 19 * * *" # 03:00 Philippine time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-graphics.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_USER: ${{ github.repository_owner }}
+    steps:
+      - name: Snapshot GitCity skyline (noir)
+        run: |
+          mkdir out
+          curl --fail --silent --show-error --location --retry 3 --retry-delay 5 --max-time 60 \
+            "https://gitcity.natrajx.in/api/svg?u=${GH_USER}&theme=noir" -o out/gitcity-noir.svg
+          grep -q "<svg" out/gitcity-noir.svg
+
+      - name: Snapshot streak card (noir)
+        run: |
+          curl --fail --silent --show-error --location --retry 3 --retry-delay 5 --max-time 60 \
+            "https://streak-stats.demolab.com/?user=${GH_USER}&card_width=400&border_radius=12&hide_border=true&background=04080F&stroke=1F4D6B&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=E6F7FF&currStreakLabel=29B6F6&sideLabels=7FB8D4&dates=4F7A94" \
+            -o out/streak-noir.svg
+          grep -q "<svg" out/streak-noir.svg
+
+      - uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="858 250 342 96" width="342" height="96" role="img" aria-label="Header grid">
+<style>@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<defs>
+  <radialGradient id="fade" cx="0.5" cy="0.45" r="0.6"><stop offset="0.3" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="gridmask"><rect width="1200" height="346" fill="url(#fade)"/></mask>
+</defs>
+<g stroke="#d0d7de" stroke-width="1" opacity="0.7" mask="url(#gridmask)"><line x1="0" y1="30" x2="1200" y2="30"/><line x1="0" y1="70" x2="1200" y2="70"/><line x1="0" y1="110" x2="1200" y2="110"/><line x1="0" y1="150" x2="1200" y2="150"/><line x1="0" y1="190" x2="1200" y2="190"/><line x1="0" y1="230" x2="1200" y2="230"/><line x1="0" y1="270" x2="1200" y2="270"/><line x1="0" y1="310" x2="1200" y2="310"/><line x1="0" y1="0" x2="0" y2="346"/><line x1="100" y1="0" x2="100" y2="346"/><line x1="200" y1="0" x2="200" y2="346"/><line x1="300" y1="0" x2="300" y2="346"/><line x1="400" y1="0" x2="400" y2="346"/><line x1="500" y1="0" x2="500" y2="346"/><line x1="600" y1="0" x2="600" y2="346"/><line x1="700" y1="0" x2="700" y2="346"/><line x1="800" y1="0" x2="800" y2="346"/><line x1="900" y1="0" x2="900" y2="346"/><line x1="1000" y1="0" x2="1000" y2="346"/><line x1="1100" y1="0" x2="1100" y2="346"/><line x1="1200" y1="0" x2="1200" y2="346"/></g>
+
+</svg>
