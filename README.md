@@ -156,8 +156,8 @@
 <p align="center">
   <picture><source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117%2C55:0b3a52%2C100:077c9c"><img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ddf4ff,55:7fd0e6,100:2fa3be"
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117%2C50:0a6f8c%2C100:0d1117"><img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ddf4ff,50:5fbdd6,100:ddf4ff"
     alt="Decorative wave footer"
     width="100%"></picture>
 </p>
