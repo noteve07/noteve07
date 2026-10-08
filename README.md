@@ -1,73 +1,46 @@
-# 👋 Hi there, I'm Nicko!
+# <picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-dark.svg"><img src="assets/claude-version/header-light.svg" alt="Nicko James Barata: Full-Stack Developer, AI Engineer, Building Smart Solutions, Product Engineer, Combining Strong Fundamentals with Agentic AI, Hackathon Competitor, Multiple Domains: AI, IoT, AR, GIS" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-left-dark.svg"><img src="assets/claude-version/header-left-light.svg" alt="Header grid" width="28.5%"></picture><a href="https://www.linkedin.com/in/nicko-james-barata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-linkedin-dark.svg"><img src="assets/claude-version/header-linkedin-light.svg" alt="LinkedIn" width="14.3333%"></picture></a><a href="mailto:nickobarata07@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-email-dark.svg"><img src="assets/claude-version/header-email-light.svg" alt="Email" width="14.3333%"></picture></a><a href="https://www.sololearn.com/en/profile/20283378"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-sololearn-dark.svg"><img src="assets/claude-version/header-sololearn-light.svg" alt="Sololearn" width="14.3333%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/header-right-dark.svg"><img src="assets/claude-version/header-right-light.svg" alt="Header grid" width="28.3%"></picture>
 
-## 🛠️ Skills
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-top-dark.svg"><img src="assets/claude-version/stage-top-light.svg" alt="" aria-hidden="true" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-streak-left-dark.svg"><img src="assets/claude-version/stage-streak-left-light.svg" alt="" aria-hidden="true" width="20%"></picture><img src="https://github.com/noteve07/noteve07/raw/output/streak-noir.svg" alt="Nicko's GitHub contribution streak: total contributions, current streak, and longest streak" width="60%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-streak-right-dark.svg"><img src="assets/claude-version/stage-streak-right-light.svg" alt="" aria-hidden="true" width="19.8%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-gap1-dark.svg"><img src="assets/claude-version/stage-gap1-light.svg" alt="" aria-hidden="true" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-city-left-dark.svg"><img src="assets/claude-version/stage-city-left-light.svg" alt="" aria-hidden="true" width="20%"></picture><a href="https://gitcity.natrajx.in/noteve07"><img src="https://github.com/noteve07/noteve07/raw/output/gitcity-noir.svg" alt="Nicko's GitCity skyline: an isometric 3D city built from GitHub contributions over the last year" width="60%"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-city-right-dark.svg"><img src="assets/claude-version/stage-city-right-light.svg" alt="" aria-hidden="true" width="19.8%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-gap2-dark.svg"><img src="assets/claude-version/stage-gap2-light.svg" alt="" aria-hidden="true" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-tech-dark.svg"><img src="assets/claude-version/stage-tech-light.svg" alt="Tech stack: Python, Java, C#, C++, JavaScript, TypeScript, HTML, CSS, Bash, React, Vite, Tailwind CSS, Leaflet, Node.js, Express, NestJS, Django, FastAPI, .NET, PHP, PostgreSQL, MySQL, SQLite, Supabase, Firebase, Kafka, scikit-learn, NumPy, pandas, Matplotlib, n8n, Google Cloud, Docker, Podman, Linux / WSL, Apache, VPS, Railway, Render, Vercel, GitHub Actions, Git, GitHub, Postman, cURL, npm, VS Code, Arduino, ESP32, Unity" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/stage-bottom-dark.svg"><img src="assets/claude-version/stage-bottom-light.svg" alt="" aria-hidden="true" width="100%"></picture>
+</p>
 
-<div align="center">
-  <!-- programming languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+## 🚀 Featured projects
 
-  <!-- web / frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/projects-top-dark.svg"><img src="assets/claude-version/projects-top-light.svg" alt="" aria-hidden="true" width="100%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/projects-fill-a-dark.svg"><img src="assets/claude-version/projects-fill-a-light.svg" alt="" aria-hidden="true" width="4%"></picture><a href="https://github.com/noteve07/ALISTO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/card-alisto-dark.svg"><img src="assets/claude-version/card-alisto-light.svg" alt="ALISTO: real-time earthquake and volcano monitoring platform for the Philippines. GIS, AI and ML, real-time." width="44%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/projects-fill-b-dark.svg"><img src="assets/claude-version/projects-fill-b-light.svg" alt="" aria-hidden="true" width="4%"></picture><a href="https://github.com/noteve07/LIWANAG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/card-liwanag-dark.svg"><img src="assets/claude-version/card-liwanag-light.svg" alt="LIWANAG: IoT sensor units that map street-lighting quality for smarter local governance. IoT, GIS, analytics." width="44%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/projects-fill-c-dark.svg"><img src="assets/claude-version/projects-fill-c-light.svg" alt="" aria-hidden="true" width="3.8%"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/projects-bottom-dark.svg"><img src="assets/claude-version/projects-bottom-light.svg" alt="" aria-hidden="true" width="100%"></picture>
+</p>
 
-  <!-- web / backend -->
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<details>
+<summary><b>Earlier work</b></summary>
+<br>
 
-  <!-- databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-0064a5?style=for-the-badge&logo=postgis&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+- [ReadMe](https://github.com/noteve07/mvc-readme-website): e-library portal with an admin dashboard and book recommendations (group project, OOP finals).
+- [ProduX](https://github.com/noteve07/produx-2nd-final-project): second-year Java final project, built as lead programmer.
+- [VibeSwift](https://github.com/noteve07/vibeswift-1st-final-project): Java console app for concert seat reservations with an ASCII stadium seat map.
+- [MusicBox](https://github.com/noteve07/musicbox-console): C# console instrument shop that demonstrates core OOP concepts.
+- [HRRN Scheduler](https://github.com/noteve07/g4-hrrn-algorithm-project): Java implementation of the Highest Response Ratio Next CPU scheduling algorithm.
+- [Python One-Liners](https://github.com/noteve07/python-one-liners): single-line Python puzzles written for fun.
 
-  <!-- hardware -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+</details>
 
-  <!-- machine learning / data science -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+## 🏆 Awards & recognition
 
-  <!-- others -->
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-</div>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/recognition-dark.svg"><img src="assets/claude-version/recognition-light.svg" alt="Awards carousel. 1st Runner Up, Regional Programming Competition, RAITE 2025 and 2026; Finalist, National Programming Competition, CodeChum NPC Season 2025; Top 10, AI in UX Fintech Hackathon; Top 10, National IT and CS Skills Competition, Hackathon Category; Finalist, DOST-GATES GeoHack Hackathon 2026, ongoing; Finalist, Balanga Kahanga-Hackathon 2025. Honors: Dean's Lister, DOST RA 7687 Scholar, DataCamp x DEP Scholar, AWS ML and AI Scholar. Certifications: Google AI Professional Certificate, DataCamp AI Engineer Associate, IT Specialist Software Development" width="100%"></picture>
+</p>
 
----
+<details>
+<summary><b>View all awards</b></summary>
+<br>
 
-## 🚀 Let's Connect!
-<div align="center">
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/awards-all-dark.svg"><img src="assets/claude-version/awards-all-light.svg" alt="All awards: 1st Runner Up, Regional Programming Competition, RAITE 2025 and 2026; Finalist, National Programming Competition, CodeChum NPC Season 2025; Top 10, AI in UX Fintech Hackathon; Top 10, National IT and CS Skills Competition, Hackathon Category; Finalist, DOST-GATES GeoHack Hackathon 2026, ongoing; Finalist, Balanga Kahanga-Hackathon 2025" width="100%"></picture>
+</p>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding: 0 10px;">
-      <a href="https://www.sololearn.com/en/profile/20283378">
-        <img src="https://github.com/user-attachments/assets/ba09aa06-8eee-41dd-92ca-4fa8538a1857" width="32" height="32">
-      </a>
-    </td>
-    <td style="border: none; padding: 0 10px;">
-      <a href="mailto:njb.noteve12@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32">
-      </a>
-    </td>
-    <td style="border: none; padding: 0 10px;">
-      <a href="https://www.linkedin.com/in/nicko-james-barata">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32">
-      </a>
-    </td>
-  </tr>
-</table>
+</details>
 
-</div>
+## 🤝 Shipped with
 
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/claude-version/partners-dark.svg"><img src="assets/claude-version/partners-light.svg" alt="Shipped with: SN International Group, AI Specialist Associate; KadaKareer, Senior MS - Product Engineer; DOST, Software Developer Intern; FlyRank AI, Backend AI Engineer Intern" width="100%"></picture>
+</p>
