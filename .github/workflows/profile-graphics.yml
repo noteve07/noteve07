@@ -33,6 +33,55 @@ jobs:
             "https://gitcity.natrajx.in/api/svg?u=${GH_USER}&theme=noir" -o out/gitcity-noir.svg
           grep -q "<svg" out/gitcity-noir.svg
 
+      # The embed has no lit windows or antennas, unlike the site's Noir view, so patch the snapshot to match.
+      - name: Light the Noir windows
+        run: |
+          python3 - out/gitcity-noir.svg <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          path = Path(sys.argv[1])
+          svg = path.read_text(encoding="utf-8")
+
+          # Windows: the embed paints them in the accent cyan at low opacity; light them warm yellow like the site's Noir view.
+          windows = re.compile(r'(<rect [^>]*rx="0\.3" fill=")#00d4ff(" opacity=")(0\.35|0\.25)("/>)')
+          lit = {"0.35": "0.9", "0.25": "0.7"}
+          svg, windows_lit = windows.subn(lambda m: f"{m.group(1)}#f5d76e{m.group(2)}{lit[m.group(3)]}{m.group(4)}", svg)
+
+          # Antennas: the site's Noir view puts a glowing antenna on its tallest towers; the embed has none.
+          num = r"-?\d+(?:\.\d+)?"
+          face = r'<polygon points="[^"]*" fill="[^"]*" stroke="[^"]*" stroke-width="0\.3"/>'
+          building = re.compile(
+              face
+              + rf'<polygon points="{num},{num} {num},({num}) {num},({num}) {num},{num}" fill="[^"]*" stroke="[^"]*" stroke-width="0\.3"/>'
+              + face
+              + rf'<polyline points="{num},({num}) ({num}),{num} {num},{num}" fill="none"[^>]*/>'
+          )
+          heights = sorted(((float(m.group(2)) - float(m.group(1)), m.start()) for m in building.finditer(svg)), reverse=True)
+          tallest = {start for _, start in heights[:2]}
+
+
+          def with_antenna(match: re.Match) -> str:
+              if match.start() not in tallest:
+                  return match.group(0)
+              x, y = float(match.group(4)), float(match.group(3))
+              tip = y - 16
+              return (
+                  match.group(0)
+                  + f'<line x1="{x:g}" y1="{y:g}" x2="{x:g}" y2="{tip:g}" stroke="#00d4ff" stroke-width="0.7"/>'
+                  + f'<circle cx="{x:g}" cy="{tip:g}" r="2.8" fill="#00d4ff" opacity="0.25"/>'
+                  + f'<circle cx="{x:g}" cy="{tip:g}" r="1.2" fill="#00d4ff"/>'
+              )
+
+
+          svg = building.sub(with_antenna, svg)
+          if not windows_lit or not tallest:
+              print("::warning::GitCity markup changed; part of the Noir skin was not applied")
+          path.write_text(svg, encoding="utf-8")
+          print(f"lit {windows_lit} windows, added {len(tallest)} antennas")
+          PY
+
       - name: Snapshot streak card (noir)
         run: |
           curl --fail --silent --show-error --location --retry 3 --retry-delay 5 --max-time 60 \

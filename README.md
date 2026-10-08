@@ -3,9 +3,9 @@
     media="(prefers-color-scheme: dark)"
     srcset="assets/header-dark.svg"><img
     src="assets/header-light.svg"
-    alt="Nicko James Barata: Full-Stack Developer, AI Engineer, Building Smart Solutions,
-      Product Engineer, Combining Strong Fundamentals with Agentic AI, Hackathon
-      Competitor, Multiple Domains: AI, IoT, AR, GIS"
+    alt="Nicko James Barata: Full-Stack Developer, AI &amp; Automation Engineer, Building
+      Smart Solutions, Product Engineer, Combining Strong Fundamentals with Agentic AI,
+      Hackathon Competitor, Multiple Domains: AI, IoT, AR, GIS"
     width="100%"></picture><br>
   <picture><source
     media="(prefers-color-scheme: dark)"
@@ -156,8 +156,8 @@
 <p align="center">
   <picture><source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117%2C55:0b3a52%2C100:00a8cc"><img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ddf4ff,55:7fd0e6,100:0891b2"
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117%2C55:0b3a52%2C100:077c9c"><img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ddf4ff,55:7fd0e6,100:2fa3be"
     alt="Decorative wave footer"
     width="100%"></picture>
 </p>
