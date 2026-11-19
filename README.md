@@ -129,12 +129,15 @@
     srcset="assets/recognition-dark.svg"><img
     src="assets/recognition-light.svg"
     alt="Awards carousel. 1st Runner Up, Regional Programming Competition, RAITE 2025 and
-      2026; Finalist, National Programming Competition, CodeChum NPC Season 2025; Top 10,
-      AI in UX Fintech Hackathon; Top 10, National IT and CS Skills Competition, Hackathon
-      Category; Finalist, DOST-GATES GeoHack Hackathon 2026, ongoing; Finalist, Balanga
-      Kahanga-Hackathon 2025. Honors: Dean's Lister, DOST RA 7687 Scholar, DataCamp x DEP
-      Scholar, AWS ML and AI Scholar. Certifications: Google AI Professional Certified,
-      DataCamp AI Engineer Associate, IT Specialist Software Development"
+      2026; Finalist, National Programming Competition, CodeChum NPC Season 2025 &amp;
+      2026, 64 Universities; Top 10, AI in UX Fintech Hackathon, Home Credit PH x
+      KadaKareer, 80+ teams; Top 10, National IT and CS Skills Competition, Hackathon
+      Category, DLSU, SikapTala, DevCon, 70+ Teams; 3rd Place, DOST-GATES GeoHack
+      Hackathon 2026, DOST, JICA DXLab, EU-DEP, GATES Program; Finalist, Balanga
+      Kahanga-Hackathon 2025; Finalist, P&amp;G Next AIdeathon 2026, Procter &amp; Gamble,
+      SK-II, AI Engineering Role. Honors: Dean's Lister, DOST RA 7687 Scholar, DataCamp x
+      DEP Scholar, AWS ML and AI Scholar. Certifications: Google AI Professional
+      Certified, DataCamp AI Engineer Associate, IT Specialist Software Development"
     width="100%"></picture>
 </p>
 
