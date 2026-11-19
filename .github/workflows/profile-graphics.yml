@@ -85,7 +85,7 @@ jobs:
       - name: Snapshot streak card (noir)
         run: |
           curl --fail --silent --show-error --location --retry 3 --retry-delay 5 --max-time 60 \
-            "https://streak-stats.demolab.com/?user=${GH_USER}&card_width=400&border_radius=12&hide_border=true&background=04080F&stroke=1F4D6B&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=E6F7FF&currStreakLabel=29B6F6&sideLabels=7FB8D4&dates=4F7A94" \
+            "https://streak-stats.demolab.com/?user=${GH_USER}&card_width=400&border_radius=12&hide_border=true&background=04080F&stroke=1F4D6B&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=E6F7FF&currStreakLabel=29B6F6&sideLabels=7FB8D4&dates=transparent" \
             -o out/streak-noir.svg
           grep -q "<svg" out/streak-noir.svg
 
